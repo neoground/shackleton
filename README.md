@@ -4,11 +4,11 @@
 
 ---
 
-**Shackleton** is an all-in-one web application designed for ham radio operators and radio enthusiasts.
+**Shackleton** is an all-in-one PHP8 web application designed for ham radio operators and radio enthusiasts.
 Whether you're logging contacts, tracking satellites, or managing repeaters, 
 Shackleton provides everything you need in a single platform to enhance your radio operations.
 
-## 📷 About the Project
+## 🛰 About the Project
 
 Shackleton is built for the amateur radio community with an emphasis on simplicity, 
 functionality, and beautiful design. It offers a rich feature set, 
@@ -27,6 +27,7 @@ We aim to make Shackleton the go-to web app for both experienced and aspiring op
 - **World Clock**: Stay on top of UTC time and local times for DX stations around the world.
 - **World Map**: View a beautiful map with day/night cycles, live satellite tracks, and more.
 - **Reminders & Notifications**: Set reminders for satellite passes, contests, and important events with configurable notifications.
+- **Reliable Data Sources**: Get the latest frequency information from [eibispace](http://www.eibispace.de/) and all satellite info directly from [NORAD GP via CelesTrak](https://celestrak.org/NORAD/elements/)
 
 ### 🚧 Work in Progress
 
@@ -37,6 +38,8 @@ We aim to make Shackleton the go-to web app for both experienced and aspiring op
 
 Shackleton is in early development. Once we have the first simple app ready, 
 we'll add a comprehensive getting started guide here.
+
+You'll be able to run Shackleton on any modern webspace. We recommend nginx + PHP 8 + MariaDB.
 
 ## 💬 Contributions
 

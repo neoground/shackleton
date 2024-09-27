@@ -27,7 +27,7 @@ We aim to make Shackleton the go-to web app for both experienced and aspiring op
 - **World Clock**: Stay on top of UTC time and local times for DX stations around the world.
 - **World Map**: View a beautiful map with day/night cycles, live satellite tracks, and more.
 - **Reminders & Notifications**: Set reminders for satellite passes, contests, and important events with configurable notifications.
-- **Reliable Data Sources**: Get the latest frequency information from [eibispace](http://www.eibispace.de/) and all satellite info directly from [NORAD GP via CelesTrak](https://celestrak.org/NORAD/elements/)
+- **Reliable Data Sources**: Get the latest frequency information from [eibispace](http://www.eibispace.de/) and all satellite info directly from [NORAD GP via CelesTrak](https://celestrak.org/NORAD/elements/).
 
 ### 🚧 Work in Progress
 
